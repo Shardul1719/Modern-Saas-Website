@@ -83,9 +83,7 @@ npm run preview
 
 ## 📸 Screenshots (Add your images here)
 
-| Landing Page                    | Features Section                        | Responsive Design                   |
-| ------------------------------- | --------------------------------------- | ----------------------------------- |
-| ![Hero](./screenshots/hero.png) | ![Features](./screenshots/features.png) | ![Mobile](./screenshots/mobile.png) |
+![Brainwave Preview](./screenshots/brainwave.png)
 
 ---
 
