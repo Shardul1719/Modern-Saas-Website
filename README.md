@@ -81,7 +81,7 @@ npm run preview
 
 ---
 
-## 📸 Screenshots (Add your images here)
+## 📸 Screenshot
 
 ![Brainwave Preview](./screenshots/brainwave.png)
 
